@@ -1,0 +1,12 @@
+D:\Test\TetrisGame\TetrisGame\bin\Release\TetrisGame.exe.config
+D:\Test\TetrisGame\TetrisGame\bin\Release\TetrisGame.exe
+D:\Test\TetrisGame\TetrisGame\bin\Release\TetrisGame.pdb
+D:\Test\TetrisGame\TetrisGame\obj\Release\TetrisGame.csproj.AssemblyReference.cache
+D:\Test\TetrisGame\TetrisGame\obj\Release\TetrisGame.Forms.GameForm.resources
+D:\Test\TetrisGame\TetrisGame\obj\Release\TetrisGame.Forms.MenuForm.resources
+D:\Test\TetrisGame\TetrisGame\obj\Release\TetrisGame.Forms.SettinsForm.resources
+D:\Test\TetrisGame\TetrisGame\obj\Release\TetrisGame.Properties.Resources.resources
+D:\Test\TetrisGame\TetrisGame\obj\Release\TetrisGame.csproj.GenerateResource.cache
+D:\Test\TetrisGame\TetrisGame\obj\Release\TetrisGame.csproj.CoreCompileInputs.cache
+D:\Test\TetrisGame\TetrisGame\obj\Release\TetrisGame.exe
+D:\Test\TetrisGame\TetrisGame\obj\Release\TetrisGame.pdb
